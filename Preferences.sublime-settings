@@ -1,0 +1,32 @@
+{
+  "always_show_minimap_viewport": true,
+  "bold_folder_labels": true,
+  "caret_extra_width": 4,
+  "caret_style": "phase",
+  "color_scheme": "Packages/User/SublimeLinter/Agila Oceanic Next (SL).tmTheme",
+  "dpi_scale": 2.0,
+  "ensure_newline_at_eof_on_save": true,
+  "folder_exclude_patterns": [".git", "build", "node_modules"],
+  "font_face": "Hack",
+  "font_size": 12,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages": [
+    "A File Icon",
+    "ActionScript",
+    "Agila Theme",
+    "ayu",
+    "Graphviz",
+    "SideBarEnhancements",
+    "Vintage",
+    "zzz A File Icon zzz"
+  ],
+  "line_padding_bottom": 3,
+  "line_padding_top": 3,
+  "scroll_speed": 1000,
+  "tab_size": 2,
+  "theme": "Adaptive.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_"
+}
